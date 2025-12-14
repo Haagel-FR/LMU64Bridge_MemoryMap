@@ -1,0 +1,14 @@
+{
+  "version": "1.2.0.1",
+  "offsets": {
+    "abs": "0x1A7F5B4",
+    "tc": "0x1A7F404",
+    "tccut": "0x1A7F494",
+    "tcslip": "0x1A7F524",
+    "farb": "0x1A7D3F4",
+    "rarb": "0x1A7D484",
+    "motormap": "0x1A87FFC",
+    "regenlvl": "0x1A87FF8",
+    "brakemigration": "0x1A7E7A4"
+  }
+}
